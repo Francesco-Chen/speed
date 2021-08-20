@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: kodexplorer",
+  "description": "kodexplorer-heroku",
+  "repository": "https://github.com",
+  "addons": []
+}
