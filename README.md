@@ -6,5 +6,8 @@ you can run speedtest on keroku
 
 or 
 
-use my heroku app http://speedtest-heroku.herokuapp.com/
+Use my heroku app http://speedtest-heroku.herokuapp.com/
+Starting November 28th, 2022, free Heroku Dynos, will no longer be available. Link will unavailable. Sorry.
+
+
 ![direct speed](https://raw.githubusercontent.com/Francesco-Chen/francesco-chen.github.io/master/public/Screenshot%20speedtest%20direct.png)
